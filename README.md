@@ -3,6 +3,31 @@
 
 Self-contained, pretty and versatile `.tmux.conf` configuration file.
 
+![Screenshot_20230423_211859](https://user-images.githubusercontent.com/11617213/233860147-3f248eeb-b558-456b-97b4-a06921debe2c.png)
+
+Therminal color configurations
+------------
+
+### Normal colors:
+    black:   '#000000'
+    red:     '#CC3E28'
+    green:   '#216609'
+    yellow:  '#B58900'
+    blue:    '#1E6FCC'
+    magenta: '#5C21A5'
+    cyan:    '#158C86'
+    white:   '#AAAAAA'
+
+### Bright colors
+    black:   '#555555'
+    red:     '#CC3E28'
+    green:   '#216609'
+    yellow:  '#B58900'
+    blue:    '#1E6FCC'
+    magenta: '#5C21A5'
+    cyan:    '#158C86'
+    white:   '#AAAAAA'
+
 
 Installation
 ------------
