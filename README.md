@@ -118,6 +118,8 @@ set -g status-right "#{prefix_highlight} $wg_is_keys_off $wg_is_zoomed #{sysstat
 You can use this table to customize the color
 --------
 
+![colour](https://user-images.githubusercontent.com/11617213/233860116-54911439-64d7-40ee-a88a-145ebc87f8e4.png)
+
 Plugins
 ===
 
