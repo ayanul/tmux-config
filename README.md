@@ -174,3 +174,14 @@ The following plugins are used
 | tmux-plugins/tmux-continuum | Continuous saving of Tmux environment | https://github.com/tmux-plugins/tmux-continuum |
 | tmux-plugins/tmux-sensible | Basic Tmux settings |  https://github.com/tmux-plugins/tmux-sensible |
 
+
+Tips
+--------
+You can output the stream to different panels ([original post](https://qiita.com/nardtree/items/e6bc42d90265d7c8ec78?fbclid=IwAR31C-QI9KjfayuwSOIeZBXVtok5fkPps5wNkQfozHRgxXx2MUDAjy8iWCY))
+
+<code>node app.js 1>/dev/pts/32 2>/dev/pts/37</code>
+> 1 - info output
+> 
+> 2 - error output
+
+![Expample](https://hsto.org/getpro/habr/post_images/3b7/493/4b7/3b74934b74f63b36da078fa23ed8d820.gif)
